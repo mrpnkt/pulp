@@ -1,3 +1,5 @@
+# as seen here: https://stackoverflow.com/questions/23270175/google-reverse-image-search-using-post-request#28792943
+
 import requests
 import webbrowser
 
